@@ -1,6 +1,6 @@
 # sxi
 
-sxs - Self-Extracting Installer
+sxi - Self-Extracting Installer
 
 Links:
 
